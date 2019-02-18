@@ -1,2 +1,0 @@
-# SJ
-Created with CodeSandbox
